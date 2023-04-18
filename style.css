@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient( #0051ffce, #5e9cda);  
+}
+
+#tarjeta{
+ display: flex;
+ justify-content: center;
+}
